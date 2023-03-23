@@ -6,6 +6,19 @@
 Hey there!!! Welcome to the Official Repository... Here You can find all the details for the project. So firstly it's a collaborating Project starting from the github contributing scenario here is the link: 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasuman990&label=Profile%20views&color=0e75b6&style=flat" alt="adityasuman990" /> </p>
+
+
+
+- 🔭 We will be working on Divide and Conquer Strategy.
+
+- 🌱 This is will be a slack channel for intercommunication.
+
+- 👯 I’m looking for more collaborations on **web projects**
+
+- 📫 How to reach me **adityasuman990@gmail.com**
+
+
 
 
 
@@ -38,7 +51,7 @@ For support, email adityasuman990@gmail.com or join our Slack channel(coming soo
 ## Leads
 
 - [Aditya Suman](https://www.github.com/adityasuman990)
-- [Priyanshu Kumar](https://priyanshu-rj.github.io)
+- [Priyanshu Kumar](https://github.com/priyanshu-rj)
 - [Vikrant Chauhan](https://github.com/Vinki1000z)
 - [Mukul Bhalla](https://github.com/mukul-bhalla)
 
