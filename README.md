@@ -5,8 +5,8 @@
 # Open Source Project
 Hey there!!! Welcome to the Official Repository... Here You can find all the details for the project. So firstly it's a collaborating Project starting from the github contributing scenario here is the link: 
 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasuman990&label=Profile%20views&color=0e75b6&style=flat" alt="adityasuman990" /> </p>
 
 
 
