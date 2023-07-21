@@ -1,12 +1,11 @@
-
 import "./App.css";
 
 function App() {
-  return <>
-
-
-    
-  </>;
+  return (
+    <>
+      <p className="adi"></p>
+    </>
+  );
 }
 
 export default App;
