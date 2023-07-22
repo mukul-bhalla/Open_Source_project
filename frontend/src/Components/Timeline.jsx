@@ -38,7 +38,7 @@ const Navbar = () => {
         </li>
       </ol>
       <div className="credits">
-        <a target="_blank" href="https://www.freepik.com/premium-vector/vector-infographic-design-template-with-icons-8-options-steps_10571883.htm">inspired by</a>
+        <a target="blank" href="https://www.freepik.com/premium-vector/vector-infographic-design-template-with-icons-8-options-steps_10571883.htm">inspired by</a>
       </div>
     </div>
   )
