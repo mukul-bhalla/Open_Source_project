@@ -45,7 +45,7 @@ body {
   }
 }
 
-.container-title {
+.container-title-2 {
   text-align: center;
   padding: 0 !important;
   margin-bottom: 40px;
@@ -55,19 +55,19 @@ body {
   line-height: 60px;
 }
 
-.card {
+.card-h {
   max-width: 550px;
   border: 0;
   width: 100%;
-  margin-inline: auto;
+  /* margin-inline: auto; */
   background:none;
 }
 
-.container-card {
+.container-card-2 {
   position: relative;
   border: 2px solid transparent;
   background: linear-gradient(71deg, #080509, #1a171c, #080509);
-  background-clip: padding-box;
+  /* background-clip: padding-box; */
   border-radius: 45px;
   padding: 40px;
 }

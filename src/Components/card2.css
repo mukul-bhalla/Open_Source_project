@@ -99,7 +99,7 @@ body {
 .card__title {
     grid-row: 3/4;
     font-weight: 400;
-    color: #ffffff;
+    color: #ffffff;         
 }
 
 .card__apply {

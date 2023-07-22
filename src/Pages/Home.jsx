@@ -12,9 +12,10 @@ const Home = () => {
     <Navbar />
     <Features/>
     <Timeline/>
+    <Cards2/>
     <Footer/>
     {/* <Newletter/> */}
-    <Cards2/>
+    
     </>
   )
 }
