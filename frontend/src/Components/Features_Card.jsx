@@ -45,6 +45,8 @@ const Card = ({ title, description, gradientColor }) => (
 );
 
 const App = () => (
+    <>
+    <div style={{marginTop:"100px"}}></div>
   <div className="container">
     <p className="container-title">Here are the features<br />we’re proud of</p>
     <div className="gradient-cards">
@@ -78,6 +80,7 @@ const App = () => (
       </div>
     </div>
   </div>
+  </>
 );
 
 export default App;
