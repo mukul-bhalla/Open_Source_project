@@ -1,5 +1,5 @@
 import React from 'react';
-import "../Components/Features.css";
+import "./Features.css";
 const Card = ({ title, description, gradientColor }) => (
   <div className={`container-card-2 bg-${gradientColor}`}>
     {gradientColor === 'green-box' && (
