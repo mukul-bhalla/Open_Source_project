@@ -6,6 +6,10 @@ import Footer from "../Components/Footer/Footer";
 import Cards2 from "../Components/card2/Cards2";
 import  Carousel  from "../Components/Carousel/Carousel";
 // import Newletter from "../Components/Newsletter";
+import UserCard from "../Components/UserCard/UserCard";
+// import Signup from "../Components/Signup/Signup";
+
+
 const Home = () => {
   return (
     <>
@@ -14,9 +18,12 @@ const Home = () => {
     <Carousel/>
     <Features/>
     <Timeline/>
+    <UserCard/>
+    {/* <UserCard/><UserCard/><UserCard/> */}
     <Cards2/>
     <Footer/>
     {/* <Newletter/> */}
+    {/* <Signup/> */}
     
     </>
   )
