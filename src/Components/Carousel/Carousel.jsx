@@ -36,7 +36,7 @@ const CarouselExample = () => {
           <div className="carousel-inner">
             <div className="carousel-item active">
               <img
-                src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg"
+                src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/17421a104128975.5f5bdc0d6d121.gif"
                 className="w-100"
                 alt="..."
                 height="600px"

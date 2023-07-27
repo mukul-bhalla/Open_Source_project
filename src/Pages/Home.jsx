@@ -7,23 +7,27 @@ import Cards2 from "../Components/card2/Cards2";
 import  Carousel  from "../Components/Carousel/Carousel";
 // import Newletter from "../Components/Newsletter";
 import UserCard from "../Components/UserCard/UserCard";
-// import Signup from "../Components/Signup/Signup";
-
-
+import Signup from "../Components/Signup/Signup";
+import FootButton from "../Components/FootButton/Footbutton";
+import TitleCard from "../Components/TitleCard/Titlecard";
+import Terms from "../Components/Signup/SignTerms";
 const Home = () => {
   return (
     <>
     {/* <div>Home</div> */}
     <Navbar />
     <Carousel/>
+    <TitleCard/>
     <Features/>
     <Timeline/>
     <UserCard/>
     {/* <UserCard/><UserCard/><UserCard/> */}
     <Cards2/>
+    <FootButton/>
     <Footer/>
     {/* <Newletter/> */}
-    {/* <Signup/> */}
+    <Signup/>
+    <Terms/>
     
     </>
   )
