@@ -2,16 +2,18 @@ import React from 'react';
 
 const TermsAndConditions = () => {
   return (
-    <div style={{padding:"50px"}}>
-      <h1>Welcome to [Your Finance App Name]!</h1>
-
-      <h2>Terms and Conditions</h2>
-      <p>
+    <div style={{padding:"10px 150px 10px 150px"}}>
+      <h1 style={{ marginBottom:"50px"}}>Welcome to [Your Finance App Name]!</h1>
+{/* <hr /> */}
+      <center><h2>Terms and Conditions</h2></center>
+      <hr />
+      <h6 style={{padding:" 0px 100px 20px 100px"}}>
         These terms and conditions ("Terms") govern your use of our finance app and services. Please read these Terms
         carefully before signing up for our app. By signing up, you agree to be bound by these Terms. If you do not agree
         to these Terms, please refrain from using our app.
-      </p>
-
+      </h6>
+      <center>
+<div style={{padding:" 0px 100px 20px 100px"}}>
       <h3>Description of Service:</h3>
       <p>
         [Your Finance App Name] provides a mobile application that offers financial management tools and features. The app
@@ -92,6 +94,9 @@ const TermsAndConditions = () => {
         finances effectively!
       </p>
     </div>
+    </center>
+    </div>
+   
   );
 };
 

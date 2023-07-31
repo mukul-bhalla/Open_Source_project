@@ -1,6 +1,6 @@
 import React from "react";
 
-const CarouselExample = () => {
+const CarouselExample = (props) => {
   // const carouselStyle = {
   //     height: '300px',};
   return (

@@ -4,8 +4,9 @@ const Terms = () => {
   return (
     <>
         <Terms1/>
+        
     </>
   )
 }
 
-export default Terms
+export default Terms;
