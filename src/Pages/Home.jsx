@@ -10,6 +10,7 @@ import UserCard from "../Components/UserCard/UserCard";
 // import Signup from "../Components/Signup/Signup";
 import FootButton from "../Components/FootButton/Footbutton";
 import TitleCard from "../Components/TitleCard/Titlecard";
+import Info from "../Components/Info/Info";
 // import Terms from "../Components/Signup/SignTerms";
 const Home = () => {
   return (
@@ -40,6 +41,7 @@ const Home = () => {
       {/* <UserCard/><UserCard/><UserCard/> */}
       <Cards2 />
       <FootButton />
+      <Info />
       <Footer />
       {/* <Newletter/> */}
       {/* <Signup/> */}
