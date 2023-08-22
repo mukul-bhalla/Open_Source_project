@@ -15,6 +15,8 @@ function App() {
   };
 
   return (
+    <>
+    <div className='ad'>
     <div className="App">
       <h1>Compound Interest Calculator</h1>
       <div>
@@ -59,6 +61,8 @@ function App() {
       <button onClick={calculateCompoundInterest}>Calculate</button>
       {result !== null && <p>Final Amount: Rs.{result}</p>}
     </div>
+    </div>
+    </>
   );
 }
 
