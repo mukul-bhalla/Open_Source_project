@@ -1,5 +1,8 @@
 import React from "react";
 
+
+
+
 export default function FAQS() {
   return (
     <>
@@ -12,7 +15,7 @@ export default function FAQS() {
         type="button"
         data-bs-toggle="collapse"
         data-bs-target="#collapseOne"
-        aria-expanded="true"
+        aria-expanded="false"
         aria-controls="collapseOne"
       >
         Accordion Item #1
@@ -20,14 +23,14 @@ export default function FAQS() {
     </h2>
     <div
       id="collapseOne"
-      className="accordion-collapse collapse show"
+      className="accordion-collapse collapse "
       data-bs-parent="#accordionExample"
     >
       <div className="accordion-body">
-        <strong>This is the first item's accordion body.</strong> It is shown by
+        <strong>This is the first item's accordion body.</strong> It is n by
         default, until the collapse plugin adds the appropriate classes that we
         use to style each element. These classes control the overall appearance,
-        as well as the showing and hiding via CSS transitions. You can modify
+        as well as the ing and hiding via CSS transitions. You can modify
         any of this with custom CSS or overriding our default variables. It's
         also worth noting that just about any HTML can go within the{" "}
         <code>.accordion-body</code>, though the transition does limit overflow.
@@ -56,7 +59,7 @@ export default function FAQS() {
         <strong>This is the second item's accordion body.</strong> It is hidden
         by default, until the collapse plugin adds the appropriate classes that
         we use to style each element. These classes control the overall
-        appearance, as well as the showing and hiding via CSS transitions. You
+        appearance, as well as the ing and hiding via CSS transitions. You
         can modify any of this with custom CSS or overriding our default
         variables. It's also worth noting that just about any HTML can go within
         the <code>.accordion-body</code>, though the transition does limit
@@ -86,7 +89,7 @@ export default function FAQS() {
         <strong>This is the third item's accordion body.</strong> It is hidden
         by default, until the collapse plugin adds the appropriate classes that
         we use to style each element. These classes control the overall
-        appearance, as well as the showing and hiding via CSS transitions. You
+        appearance, as well as the ing and hiding via CSS transitions. You
         can modify any of this with custom CSS or overriding our default
         variables. It's also worth noting that just about any HTML can go within
         the <code>.accordion-body</code>, though the transition does limit
@@ -101,7 +104,7 @@ export default function FAQS() {
       type="button"
       data-bs-toggle="collapse"
       data-bs-target="#collapseFour"
-      aria-expanded="true"
+      aria-expanded="false"
       aria-controls="collapseFour"
     >
       Accordion Item #1
@@ -109,14 +112,14 @@ export default function FAQS() {
   </h2>
   <div
     id="collapseFour"
-    className="accordion-collapse collapse show"
+    className="accordion-collapse collapse "
     data-bs-parent="#accordionExample"
   >
     <div className="accordion-body">
-      <strong>This is the first item's accordion body.</strong> It is shown by
+      <strong>This is the first item's accordion body.</strong> It is n by
       default, until the collapse plugin adds the appropriate classes that we
       use to style each element. These classes control the overall appearance,
-      as well as the showing and hiding via CSS transitions. You can modify
+      as well as the ing and hiding via CSS transitions. You can modify
       any of this with custom CSS or overriding our default variables. It's
       also worth noting that just about any HTML can go within the{" "}
       <code>.accordion-body</code>, though the transition does limit overflow.
@@ -130,7 +133,7 @@ export default function FAQS() {
     type="button"
     data-bs-toggle="collapse"
     data-bs-target="#collapseFive"
-    aria-expanded="true"
+    aria-expanded="false"
     aria-controls="collapseFive"
   >
     Accordion Item #1
@@ -138,14 +141,14 @@ export default function FAQS() {
 </h2>
 <div
   id="collapseFive"
-  className="accordion-collapse collapse show"
+  className="accordion-collapse collapse "
   data-bs-parent="#accordionExample"
 >
   <div className="accordion-body">
-    <strong>This is the first item's accordion body.</strong> It is shown by
+    <strong>This is the first item's accordion body.</strong> It is n by
     default, until the collapse plugin adds the appropriate classes that we
     use to style each element. These classes control the overall appearance,
-    as well as the showing and hiding via CSS transitions. You can modify
+    as well as the ing and hiding via CSS transitions. You can modify
     any of this with custom CSS or overriding our default variables. It's
     also worth noting that just about any HTML can go within the{" "}
     <code>.accordion-body</code>, though the transition does limit overflow.
@@ -159,7 +162,7 @@ export default function FAQS() {
     type="button"
     data-bs-toggle="collapse"
     data-bs-target="#collapseSix"
-    aria-expanded="true"
+    aria-expanded="false"
     aria-controls="collapseSix"
   >
     Accordion Item #1
@@ -167,14 +170,14 @@ export default function FAQS() {
 </h2>
 <div
   id="collapseSix"
-  className="accordion-collapse collapse show"
+  className="accordion-collapse collapse "
   data-bs-parent="#accordionExample"
 >
   <div className="accordion-body">
-    <strong>This is the first item's accordion body.</strong> It is shown by
+    <strong>This is the first item's accordion body.</strong> It is n by
     default, until the collapse plugin adds the appropriate classes that we
     use to style each element. These classes control the overall appearance,
-    as well as the showing and hiding via CSS transitions. You can modify
+    as well as the ing and hiding via CSS transitions. You can modify
     any of this with custom CSS or overriding our default variables. It's
     also worth noting that just about any HTML can go within the{" "}
     <code>.accordion-body</code>, though the transition does limit overflow.
@@ -188,7 +191,7 @@ export default function FAQS() {
     type="button"
     data-bs-toggle="collapse"
     data-bs-target="#collapseSeven"
-    aria-expanded="true"
+    aria-expanded="false"
     aria-controls="collapseSeven"
   >
     Accordion Item #1
@@ -196,14 +199,14 @@ export default function FAQS() {
 </h2>
 <div
   id="collapseSeven"
-  className="accordion-collapse collapse show"
+  className="accordion-collapse collapse "
   data-bs-parent="#accordionExample"
 >
   <div className="accordion-body">
-    <strong>This is the first item's accordion body.</strong> It is shown by
+    <strong>This is the first item's accordion body.</strong> It is n by
     default, until the collapse plugin adds the appropriate classes that we
     use to style each element. These classes control the overall appearance,
-    as well as the showing and hiding via CSS transitions. You can modify
+    as well as the ing and hiding via CSS transitions. You can modify
     any of this with custom CSS or overriding our default variables. It's
     also worth noting that just about any HTML can go within the{" "}
     <code>.accordion-body</code>, though the transition does limit overflow.
@@ -217,7 +220,7 @@ export default function FAQS() {
     type="button"
     data-bs-toggle="collapse"
     data-bs-target="#collapseEight"
-    aria-expanded="true"
+    aria-expanded="false"
     aria-controls="collapseEight"
   >
     Accordion Item #1
@@ -225,14 +228,14 @@ export default function FAQS() {
 </h2>
 <div
   id="collapseEight"
-  className="accordion-collapse collapse show"
+  className="accordion-collapse collapse "
   data-bs-parent="#accordionExample"
 >
   <div className="accordion-body">
-    <strong>This is the first item's accordion body.</strong> It is shown by
+    <strong>This is the first item's accordion body.</strong> It is n by
     default, until the collapse plugin adds the appropriate classes that we
     use to style each element. These classes control the overall appearance,
-    as well as the showing and hiding via CSS transitions. You can modify
+    as well as the ing and hiding via CSS transitions. You can modify
     any of this with custom CSS or overriding our default variables. It's
     also worth noting that just about any HTML can go within the{" "}
     <code>.accordion-body</code>, though the transition does limit overflow.
@@ -246,7 +249,7 @@ export default function FAQS() {
     type="button"
     data-bs-toggle="collapse"
     data-bs-target="#collapseNine"
-    aria-expanded="true"
+    aria-expanded="false"
     aria-controls="collapseNine"
   >
     Accordion Item #1
@@ -254,14 +257,14 @@ export default function FAQS() {
 </h2>
 <div
   id="collapseNine"
-  className="accordion-collapse collapse show"
+  className="accordion-collapse collapse "
   data-bs-parent="#accordionExample"
 >
   <div className="accordion-body">
-    <strong>This is the first item's accordion body.</strong> It is shown by
+    <strong>This is the first item's accordion body.</strong> It is n by
     default, until the collapse plugin adds the appropriate classes that we
     use to style each element. These classes control the overall appearance,
-    as well as the showing and hiding via CSS transitions. You can modify
+    as well as the ing and hiding via CSS transitions. You can modify
     any of this with custom CSS or overriding our default variables. It's
     also worth noting that just about any HTML can go within the{" "}
     <code>.accordion-body</code>, though the transition does limit overflow.
@@ -275,7 +278,7 @@ export default function FAQS() {
     type="button"
     data-bs-toggle="collapse"
     data-bs-target="#collapseTen"
-    aria-expanded="true"
+    aria-expanded="false"
     aria-controls="collapseTen"
   >
     Accordion Item #1
@@ -283,14 +286,14 @@ export default function FAQS() {
 </h2>
 <div
   id="collapseTen"
-  className="accordion-collapse collapse show"
+  className="accordion-collapse collapse "
   data-bs-parent="#accordionExample"
 >
   <div className="accordion-body">
-    <strong>This is the first item's accordion body.</strong> It is shown by
+    <strong>This is the first item's accordion body.</strong> It is n by
     default, until the collapse plugin adds the appropriate classes that we
     use to style each element. These classes control the overall appearance,
-    as well as the showing and hiding via CSS transitions. You can modify
+    as well as the ing and hiding via CSS transitions. You can modify
     any of this with custom CSS or overriding our default variables. It's
     also worth noting that just about any HTML can go within the{" "}
     <code>.accordion-body</code>, though the transition does limit overflow.
